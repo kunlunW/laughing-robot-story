@@ -5,5 +5,5 @@ can easily retrive info from the machine. But this time, the machine is sucessfu
 With this new breakthrough, Tesla has actually offered a very large research grant to the University of Wisconsin -- Madison, with the hopes of further implementing this biotechnology for normal consumer use, perhaps one day allowing individuals who are immobile to be able to walk again by using the computer to control their legs, or perhaps by restoring sight by having the computer interact with the occipital lobe. The possibilities are endless, and nobody knows whether the university is going to actually take Tesla up on its offer.
 
 However, the public reacted to this action from Tesla with a critizing opinion. Almost every large news organization denounced the use of this kind of technology to be used commerially as it could seriously threathens the safety of our society. Most of the researchers at Dr.Z's lab believes this technology hasn't been tested enough to ensure the safety, but Dr.Z seems to be a second thought.
-
+brain-machine interface seems like a very advanced technology, but there are still controversies existing. In order to determine whether it is good, we need to do more research.
 
